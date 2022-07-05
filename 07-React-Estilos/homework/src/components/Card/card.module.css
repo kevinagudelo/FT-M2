@@ -1,0 +1,36 @@
+.cardContainer{
+    width: 300px;
+    box-shadow: 5px 5px 15px 5px rgba(102, 186, 250, 0.83);
+    border-radius: 5px;
+    background-color: skyblue;
+}
+h3 {
+    color: rgb(6, 6, 6);
+}
+.itemsContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.climaImg {
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: aliceblue;
+}
+.containerButton{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.exitButtonClim{
+    border: none;
+    background-color: rgb(233, 102, 102);
+    color: aliceblue;
+    border-radius: 3px;
+    margin: 5px;
+}
+b {
+    color:rgb(10, 10, 10);
+}

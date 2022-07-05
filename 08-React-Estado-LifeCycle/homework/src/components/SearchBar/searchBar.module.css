@@ -1,0 +1,8 @@
+.searchContainer{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    background-color: skyblue;
+    height: 70px;
+
+}
